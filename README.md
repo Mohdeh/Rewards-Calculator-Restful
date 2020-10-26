@@ -10,7 +10,7 @@ Given a record of every transaction during a three month period, calculate the r
 
 
 
-## `Instructions for running the project on a local machine:`
+#### `Instructions for running the project on a local machine:`
 
 $ git clone https://github.com/Mohdeh/Rewards-Calculator-Restful.git
 
