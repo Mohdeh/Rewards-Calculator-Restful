@@ -17,9 +17,9 @@ public class RewardsServiceMock {
 	
 	static {
 		
-		transactions.add( new CustomerTransaction(index++, new Customer(1, "Mohsen"), 100.0, "Purchase 1", new Date()) );
-		transactions.add( new CustomerTransaction(index++, new Customer(2, "Max"), 50.0, "Purchase 2", new Date()) );
-		transactions.add( new CustomerTransaction(index++, new Customer(3, "Lauren"), 120.0, "Purchase 3", new Date()) );
+		transactions.add( new CustomerTransaction(index++, new Customer(1, "Mohsen"), 170.0, "Purchase 1", new Date()) );
+		transactions.add( new CustomerTransaction(index++, new Customer(2, "Max"), 55.0, "Purchase 2", new Date()) );
+		transactions.add( new CustomerTransaction(index++, new Customer(3, "Lauren"), 200.0, "Purchase 3", new Date()) );
 	
 	}
 	
