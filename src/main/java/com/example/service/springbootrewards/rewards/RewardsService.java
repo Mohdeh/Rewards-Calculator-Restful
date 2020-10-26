@@ -25,8 +25,3 @@ public class RewardsService {
 	}
 
 }
-
-
-
-
-
